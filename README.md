@@ -1,4 +1,4 @@
-# Pass fail determination
+# Pass-Fail determination
 ## Arguments
     .\directory> python app.py --help
     usage: app.py [-h] [-p PASSING_MARKS]
