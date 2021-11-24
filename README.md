@@ -1,1 +1,1 @@
-# Pass-fail-determination
+# Pass fail determination
