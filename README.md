@@ -1,4 +1,5 @@
 # Pass-fail determination
+This is a simple `python-html` project based on python-based web technology `Flask`. 
 ## Arguments
     .\directory> python app.py --help
     usage: app.py [-h] [-p PASSING_MARKS]
